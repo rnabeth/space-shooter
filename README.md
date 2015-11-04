@@ -16,3 +16,4 @@ TODO:
 - Boss
 - Leader board
 - Provide initials for leader board (as in arcade)
+- Use Object Pooling (https://unity3d.com/pt/learn/tutorials/modules/beginner/live-training-archive/object-pooling)
