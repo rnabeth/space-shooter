@@ -1,6 +1,8 @@
 # space-shooter
 Unity Tutorial: Space Shooter
 
+http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial
+
 Compatible with Unity version 5.2.1f1
 
 Additions to tutorial:
