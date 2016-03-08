@@ -4,7 +4,7 @@ Unity Tutorial (Official): Space Shooter
 This is one of the Unity 3D official tutorials with some tweaks.  
 http://unity3d.com/learn/tutorials/projects/space-shooter-tutorial
 
-Compatible with Unity version 5.2.1f1
+Compatible with Unity version 5.3.2f1
 
 Additions to tutorial:
 - Change scale of asteroids as they enter the scene
